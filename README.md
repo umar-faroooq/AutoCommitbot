@@ -1,2 +1,1 @@
-# AutoCommitbot
-Auto Commit Bot
+# auto-commit-bot
